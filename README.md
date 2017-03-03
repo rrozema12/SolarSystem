@@ -31,6 +31,7 @@ There are many files in this project.  See the description of these files given 
     > Since this entire project uses VBOs, or Vertex Buffer Objects, we needed fragment and vertex shaders to bind the colors to the color buffer.  This allowed us to make each of the planets differnet colors.  It helps the viewer distinguish between the planets easier.
 
 ## Interaction
+```  
   Press space to toggle between animation on and off.
   Press 0 to display facts about the Sun.
   Press 1 to display facts about Mercury.
@@ -45,3 +46,4 @@ There are many files in this project.  See the description of these files given 
   Press a to display facts about the Asteroid belt.
   Press s to display what the pilot of the ship is saying.
   Press and hold the END key to sumulate the apocalypse.
+```
